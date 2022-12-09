@@ -1,0 +1,5 @@
+(defpackage day_1
+  (:use :cl))
+(in-package :day_1)
+
+(print "Hello, World!")
